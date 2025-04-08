@@ -1,7 +1,7 @@
 ### About me
 
 My name is Demian, I'm a 27yo statistician, currently living in Porto Alegre - RS. For a short while I was a mechatronics technician and studied engineering, nowadays however, I work doing analytics at a fintech company. I have a lot of curiosity and enjoy learning how *things* work. Mostly interested in:
-- Analytics, statistical methods, and whatnot
+- Analytics, statistical methods and whatnot
 - Some coding, simulation
 - Data visualization, UI/UX dilettante
 
