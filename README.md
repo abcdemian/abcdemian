@@ -6,10 +6,11 @@ My name is Demian, I'm a statistician; also currently pursuing a MSc in statisti
 - Some coding, simulation
 
 Also I
-- chose stats so I could play in everyone's backyard
-- recreationally enjoy movies, games, [*gincanas*](https://www.instagram.com/equipetiaraju/)
+- chose to be a [statistician](https://mathshistory.st-andrews.ac.uk/Biographies/Tukey/quotations/) so I could play in everyone's backyard
+- am somewhat of a contrarian
+- recreationally enjoy movies, games, travelling...
 - have 10 tattoos, among them an Ω, a [Memento](https://www.imdb.com/title/tt0209144/) reference, and a Calvin and Hobbes panel
 
-
-demiangrams [at] gmail [dot] com
-abcdemian on Discord
+Contact info:
+- demiangrams [at] gmail [dot] com
+- abcdemian on Discord
